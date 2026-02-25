@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.mctitan.rpg</groupId>
     <artifactId>Aurivale-ProtocolLib</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>Aurivale-ProtocolLib</name>
     <repositories>
         <repository>
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>net.mctitan.rpg</groupId>
             <artifactId>Aurivale</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
 	    <dependency>
 	        <groupId>net.dmulloy2</groupId>
